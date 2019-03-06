@@ -1,0 +1,10 @@
+{
+  "name": "icomp",
+  "description": "Project Icomputer",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "dependencies": {
+  }
+}
