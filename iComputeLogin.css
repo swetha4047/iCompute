@@ -7,7 +7,7 @@ body {
 	background-repeat: no-repeat;
 }
 
-.btn {
+a.btn {
   font-size: 80%;
   letter-spacing: 0.1rem;
   font-weight: bold;
